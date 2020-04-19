@@ -6,11 +6,12 @@ public class testgit {
         System.out.println("test git");
         System.out.println("test git");
         System.out.println("test git");
-        System.out.println("test git");
+            System.out.println("test git");
+    //hello test
     }
     public void test(){
         int i=0;
         i +=10;
-
+        System.out.println(i);
     }
 }
